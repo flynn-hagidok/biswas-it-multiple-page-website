@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "title": "Business Website Development",
+    "description": "We create professional, responsive, and high-performing business websites that establish a strong online presence and help businesses attract more customers.",
+    "category": "Web Development",
+    "icon": "globe"
+  },
+  {
+    "id": 2,
+    "title": "E-commerce Website Development",
+    "description": "We build secure and scalable online stores with product management, shopping carts, payment integration, and seamless checkout experiences.",
+    "category": "Web Development",
+    "icon": "shopping-cart"
+  },
+  {
+    "id": 3,
+    "title": "Custom Web Application",
+    "description": "We develop custom web applications tailored to business requirements using modern technologies and scalable architecture.",
+    "category": "Web Development",
+    "icon": "code"
+  },
+  {
+    "id": 4,
+    "title": "Landing Page Development",
+    "description": "We design and develop conversion-focused landing pages that help businesses generate leads, promote products, and increase sales.",
+    "category": "Web Development",
+    "icon": "layout"
+  },
+  {
+    "id": 5,
+    "title": "Website Maintenance",
+    "description": "We provide regular website updates, security monitoring, performance optimization, and technical support to keep websites running smoothly.",
+    "category": "Web Development",
+    "icon": "settings"
+  },
+  {
+    "id": 6,
+    "title": "CMS Website Development",
+    "description": "We build content management system websites that allow businesses to easily manage pages, blogs, images, and other website content.",
+    "category": "Web Development",
+    "icon": "database"
+  },
+  {
+    "id": 7,
+    "title": "Android App Development",
+    "description": "We develop powerful and user-friendly Android applications with modern interfaces, smooth performance, and reliable functionality.",
+    "category": "App Development",
+    "icon": "smartphone"
+  },
+  {
+    "id": 8,
+    "title": "iOS App Development",
+    "description": "We create high-quality iOS applications designed for iPhone and iPad with intuitive user experiences and optimized performance.",
+    "category": "App Development",
+    "icon": "apple"
+  },
+  {
+    "id": 9,
+    "title": "Cross-Platform App Development",
+    "description": "We build cross-platform mobile applications that work efficiently on both Android and iOS using modern development frameworks.",
+    "category": "App Development",
+    "icon": "layers"
+  },
+  {
+    "id": 10,
+    "title": "E-commerce Mobile App",
+    "description": "We develop feature-rich shopping applications with product catalogs, secure payments, order tracking, and personalized shopping experiences.",
+    "category": "App Development",
+    "icon": "shopping-bag"
+  },
+  {
+    "id": 11,
+    "title": "Mobile App UI Development",
+    "description": "We transform mobile application designs into responsive, interactive, and visually appealing interfaces for a seamless user experience.",
+    "category": "App Development",
+    "icon": "monitor"
+  },
+  {
+    "id": 12,
+    "title": "App Maintenance & Support",
+    "description": "We provide continuous application maintenance, bug fixes, performance improvements, and feature updates to ensure long-term reliability.",
+    "category": "App Development",
+    "icon": "wrench"
+  },
+  {
+    "id": 13,
+    "title": "Search Engine Optimization",
+    "description": "We improve website visibility on search engines through keyword research, technical SEO, content optimization, and effective SEO strategies.",
+    "category": "Digital Marketing",
+    "icon": "search"
+  },
+  {
+    "id": 14,
+    "title": "Social Media Marketing",
+    "description": "We help businesses grow their online presence through engaging social media content, audience targeting, and strategic marketing campaigns.",
+    "category": "Digital Marketing",
+    "icon": "share-2"
+  },
+  {
+    "id": 15,
+    "title": "Google Ads Management",
+    "description": "We create and optimize targeted Google Ads campaigns to increase website traffic, generate qualified leads, and improve advertising performance.",
+    "category": "Digital Marketing",
+    "icon": "target"
+  },
+  {
+    "id": 16,
+    "title": "Content Marketing",
+    "description": "We develop valuable and engaging content strategies that attract potential customers, build brand authority, and support business growth.",
+    "category": "Digital Marketing",
+    "icon": "file-text"
+  },
+  {
+    "id": 17,
+    "title": "Email Marketing",
+    "description": "We design personalized email marketing campaigns that nurture customer relationships, promote services, and improve customer engagement.",
+    "category": "Digital Marketing",
+    "icon": "mail"
+  },
+  {
+    "id": 18,
+    "title": "Facebook & Instagram Ads",
+    "description": "We manage targeted Facebook and Instagram advertising campaigns to increase brand awareness, reach potential customers, and drive conversions.",
+    "category": "Digital Marketing",
+    "icon": "megaphone"
+  },
+  {
+    "id": 19,
+    "title": "Website UI Design",
+    "description": "We create modern and visually appealing website interfaces with consistent layouts, typography, colors, and interactive design elements.",
+    "category": "UI/UX Design",
+    "icon": "palette"
+  },
+  {
+    "id": 20,
+    "title": "Mobile App UI/UX Design",
+    "description": "We design intuitive mobile application interfaces that provide smooth navigation, engaging interactions, and exceptional user experiences.",
+    "category": "UI/UX Design",
+    "icon": "smartphone"
+  },
+  {
+    "id": 21,
+    "title": "Wireframing & Prototyping",
+    "description": "We create detailed wireframes and interactive prototypes to visualize product structure, test ideas, and improve usability before development.",
+    "category": "UI/UX Design",
+    "icon": "figma"
+  },
+  {
+    "id": 22,
+    "title": "Dashboard UI/UX Design",
+    "description": "We design clean and functional dashboards with organized data visualization, intuitive navigation, and user-friendly interfaces.",
+    "category": "UI/UX Design",
+    "icon": "layout-dashboard"
+  },
+  {
+    "id": 23,
+    "title": "User Experience Research",
+    "description": "We analyze user behavior, conduct usability research, and identify opportunities to create more effective and user-centered digital experiences.",
+    "category": "UI/UX Design",
+    "icon": "users"
+  },
+  {
+    "id": 24,
+    "title": "Design System Development",
+    "description": "We create scalable design systems with reusable components, consistent styling, and clear guidelines to maintain visual consistency across products.",
+    "category": "UI/UX Design",
+    "icon": "component"
+  }
+]

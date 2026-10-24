@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "name": "Rahim Ahmed",
+        "position": "Senior Frontend Developer",
+        "category": "Web Development",
+        "email": "rahim@example.com",
+        "experience": "5 Years",
+        "skills": [
+            "React.js",
+            "JavaScript",
+            "Tailwind CSS",
+            "Next.js"
+        ],
+        "image": "https://i.ibb.co.com/5hfpGG0N/member-4.jpg",
+        "description": "Rahim specializes in building modern, responsive, and high-performance web applications with clean and maintainable code."
+    },
+    {
+        "id": 2,
+        "name": "Karim Hasan",
+        "position": "Full Stack Developer",
+        "category": "Web Development",
+        "email": "karim@example.com",
+        "experience": "4 Years",
+        "skills": [
+            "React.js",
+            "Node.js",
+            "Express.js",
+            "MongoDB"
+        ],
+        "image": "https://i.ibb.co.com/xSnKJj8b/member-3.jpg",
+        "description": "Karim develops scalable full-stack web applications and focuses on secure backend architecture and seamless user experiences."
+    },
+    {
+        "id": 3,
+        "name": "Arif Hossain",
+        "position": "Senior Android Developer",
+        "category": "App Development",
+        "email": "arif@example.com",
+        "experience": "6 Years",
+        "skills": [
+            "Kotlin",
+            "Java",
+            "Android SDK",
+            "Firebase"
+        ],
+        "image": "https://i.ibb.co.com/zV6M88rf/member-2.jpg",
+        "description": "Arif builds reliable and user-friendly Android applications with optimized performance and modern mobile technologies."
+    },
+    {
+        "id": 4,
+        "name": "Nusrat Jahan",
+        "position": "Flutter App Developer",
+        "category": "App Development",
+        "email": "nusrat@example.com",
+        "experience": "3 Years",
+        "skills": [
+            "Flutter",
+            "Dart",
+            "Firebase",
+            "REST API"
+        ],
+        "image": "https://i.ibb.co.com/bMYznDK1/images-2.jpg",
+        "description": "Nusrat creates beautiful cross-platform mobile applications for Android and iOS with smooth interactions and intuitive interfaces."
+    },
+    {
+        "id": 5,
+        "name": "Sadia Islam",
+        "position": "SEO Specialist",
+        "category": "Digital Marketing",
+        "email": "sadia@example.com",
+        "experience": "4 Years",
+        "skills": [
+            "SEO",
+            "Google Analytics",
+            "Keyword Research",
+            "Content Strategy"
+        ],
+        "image": "https://i.ibb.co.com/j9Z6znqL/images-3.jpg",
+        "description": "Sadia helps businesses improve search engine rankings, increase organic traffic, and build effective digital marketing strategies."
+    },
+    {
+        "id": 6,
+        "name": "Tanvir Rahman",
+        "position": "Social Media Marketing Expert",
+        "category": "Digital Marketing",
+        "email": "tanvir@example.com",
+        "experience": "5 Years",
+        "skills": [
+            "Facebook Ads",
+            "Instagram Marketing",
+            "Google Ads",
+            "Campaign Management"
+        ],
+        "image": "https://i.ibb.co.com/Q3Czy1by/images-4.jpg",
+        "description": "Tanvir creates data-driven marketing campaigns that improve brand awareness, audience engagement, and business conversions."
+    },
+    {
+        "id": 7,
+        "name": "Mim Akter",
+        "position": "Senior UI/UX Designer",
+        "category": "UI/UX Design",
+        "email": "mim@example.com",
+        "experience": "5 Years",
+        "skills": [
+            "Figma",
+            "Adobe XD",
+            "Wireframing",
+            "Prototyping"
+        ],
+        "image": "https://i.ibb.co.com/BHwc7M5S/gettyimages-2099403180-612x612.jpg",
+        "description": "Mim designs visually appealing and user-centered digital products with a strong focus on usability and accessibility."
+    },
+    {
+        "id": 8,
+        "name": "Fahim Chowdhury",
+        "position": "Product Designer",
+        "category": "UI/UX Design",
+        "email": "fahim@example.com",
+        "experience": "3 Years",
+        "skills": [
+            "Figma",
+            "Design Systems",
+            "User Research",
+            "Interaction Design"
+        ],
+        "image": "https://i.ibb.co.com/KxqtQBxJ/member-1.jpg",
+        "description": "Fahim transforms complex ideas into simple, intuitive, and engaging user experiences through thoughtful product design."
+    }
+]
